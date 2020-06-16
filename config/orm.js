@@ -74,6 +74,4 @@ function printQuestionMarks(num) {
       }
     }
   
-
-
 module.exports = orm;
